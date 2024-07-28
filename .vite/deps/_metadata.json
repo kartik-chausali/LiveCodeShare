@@ -1,0 +1,76 @@
+{
+  "hash": "dca13fd4",
+  "configHash": "537a45a9",
+  "lockfileHash": "e1ab7bd7",
+  "browserHash": "bc4c1f7a",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "93226fca",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "14959653",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "991ce286",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "e0b3b2b6",
+      "needsInterop": false
+    },
+    "uuid": {
+      "src": "../../node_modules/uuid/dist/esm-browser/index.js",
+      "file": "uuid.js",
+      "fileHash": "d3aa164d",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "6ba2827e",
+      "needsInterop": false
+    },
+    "react-avatar": {
+      "src": "../../node_modules/react-avatar/es/index.js",
+      "file": "react-avatar.js",
+      "fileHash": "6c23afc2",
+      "needsInterop": false
+    },
+    "codemirror": {
+      "src": "../../node_modules/codemirror/lib/codemirror.js",
+      "file": "codemirror.js",
+      "fileHash": "3850b859",
+      "needsInterop": true
+    },
+    "codemirror/mode/javascript/javascript": {
+      "src": "../../node_modules/codemirror/mode/javascript/javascript.js",
+      "file": "codemirror_mode_javascript_javascript.js",
+      "fileHash": "397209d1",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-PXJLUKTU": {
+      "file": "chunk-PXJLUKTU.js"
+    },
+    "chunk-FQO5W7GE": {
+      "file": "chunk-FQO5W7GE.js"
+    },
+    "chunk-BKXKIPG4": {
+      "file": "chunk-BKXKIPG4.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
